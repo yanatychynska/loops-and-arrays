@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Loops and Arrays Project
+## Loops and Arrays Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Loops and Arrays Project*
 
 **Java 7**
 
